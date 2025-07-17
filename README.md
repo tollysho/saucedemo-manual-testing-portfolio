@@ -41,7 +41,7 @@ Manual_Testing_SauceDemo_Login_Registration/
 │   ├── SauceDemo_Defect_Report.xlsx
 │   └── Defect_Screenshot/
 │       ├── BUG001_TC005_error_msg_alignment.png
-│       ├── BUG002_TC006_uppercase_issue.png
+│       ├── BUG002_TC006_error_msg_alignment.png
 │       └── ...
 │
 ├── 4. SauceDemo_Test_Execution_Evidence/
@@ -92,6 +92,5 @@ Manual_Testing_SauceDemo_Login_Registration/
 
 ## 🙋‍♀️ Author
 **Tola Soyoye**  
-Manual QA Analyst | Business Systems Analyst in training  
-📧 YourEmail@example.com  
-🔗 [LinkedIn Profile URL]
+Manual QA Analyst | Business Systems Analyst  
+🔗 [LinkedIn] (https://www.linkedin.com/in/tola-s-484a0b22b/)
