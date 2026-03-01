@@ -11,6 +11,24 @@
 
 ---
 
+## 🧾 Executive Summary
+
+This repository demonstrates applied manual testing and system validation practices performed within a simulated enterprise Software Development Life Cycle (SDLC) environment.
+
+The project focuses on validating authentication workflows of a web-based application through structured test planning, execution, defect management, and traceable documentation.
+
+The work reflects responsibilities commonly performed by Technical Business Analysts and QA Analysts supporting application services, system implementation, and quality assurance initiatives.
+
+---
+
+## 🎯 Business Problem
+
+User authentication is a critical entry point for enterprise systems. Failures in login functionality can lead to poor user experience, security risks, and operational disruption.
+
+This project evaluates login workflows to ensure expected system behavior aligns with functional requirements and user interaction standards.
+
+---
+
 ## 🎯 Role Alignment & Skills Demonstrated
 
 This portfolio project demonstrates practical experience aligned with responsibilities of a:
@@ -53,6 +71,17 @@ Acting in the role of a **Manual Testing Analyst**, this project demonstrates ho
 - 🐞 Defect Tracking (Excel with supporting screenshots)
 - 📸 Execution Evidence (timestamped screenshots)
 - ✅ TestRail (test case management, execution tracking, and reporting)
+
+---
+
+## ✅ Acceptance Criteria Perspective
+
+Testing activities were aligned with expected acceptance criteria:
+
+- Users must successfully authenticate using valid credentials.
+- Invalid inputs must trigger appropriate validation messages.
+- Locked users must be prevented from system access.
+- Error messaging must remain consistent and user-friendly.
 
 ---
 
@@ -147,6 +176,28 @@ Manual_Testing_SauceDemo_Login_Registration/
 - Documentation & Traceability
 - Business Workflow Analysis
 - Quality Assurance Best Practices
+
+---
+
+## ⚠️ Risk & Quality Considerations
+
+Potential risks evaluated during testing included:
+
+- Authentication failure scenarios
+- Improper input validation
+- UI inconsistency impacting usability
+- Security-related input handling
+
+Testing helped reduce risk by identifying UI alignment issues and validating expected system responses.
+
+---
+
+## 📘 Lessons Learned
+
+- Structured test documentation improves traceability.
+- Early validation helps prevent downstream defects.
+- Clear defect reporting accelerates issue resolution.
+- Testing activities strengthen alignment between business expectations and system behavior.
 
 ---
 
