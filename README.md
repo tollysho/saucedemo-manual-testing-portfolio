@@ -1,5 +1,6 @@
 # SauceDemo Login Manual Testing Project
 **Manual Testing & SDLC Validation Portfolio Project**
+### 🔹 Application Validation & SDLC Analysis — SauceDemo Project
 
 ---
 
