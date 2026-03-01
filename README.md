@@ -3,6 +3,36 @@
 
 ---
 
+![SDLC](https://img.shields.io/badge/SDLC-Participation-blue)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Validated-green)
+![QA](https://img.shields.io/badge/QA-Workflow-orange)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Support-purple)
+![API Testing](https://img.shields.io/badge/API%20Testing-Postman%20%26%20SOAP-red)
+
+---
+
+## 🎯 Role Alignment & Skills Demonstrated
+
+This portfolio project demonstrates practical experience aligned with responsibilities of a:
+
+- Technical Business Systems Analyst
+- Quality Assurance (QA) Analyst
+- Information Systems Analyst
+- Application Services Analyst
+
+### Competencies Demonstrated
+✔ Software Development Life Cycle (SDLC) participation  
+✔ Requirements validation and traceability  
+✔ Functional and negative testing design  
+✔ Defect lifecycle management  
+✔ Technical documentation and reporting  
+✔ System behavior analysis  
+✔ Quality assurance support for application releases
+
+This project reflects how testing activities support enterprise system delivery by ensuring business requirements are validated prior to deployment.
+
+---
+
 ## 📋 Project Overview
 
 This project simulates real-world **Software Development Life Cycle (SDLC)** testing activities by performing manual functional validation of the **login functionality** within the [SauceDemo](https://www.saucedemo.com) web application.
