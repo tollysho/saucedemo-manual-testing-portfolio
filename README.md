@@ -201,6 +201,20 @@ Testing helped reduce risk by identifying UI alignment issues and validating exp
 
 ---
 
+## 👥 Stakeholder Impact
+
+This testing effort supports multiple stakeholders involved in application delivery:
+
+- **End Users:** Ensures reliable and intuitive login experience.
+- **Business Teams:** Confirms system behavior aligns with functional expectations.
+- **Developers:** Provides clear defect documentation to support issue resolution.
+- **Quality Assurance Teams:** Strengthens validation coverage prior to release.
+- **Organization:** Reduces operational risk by identifying usability and validation issues early.
+
+By validating authentication workflows, this project demonstrates how structured testing contributes to improved system reliability and user confidence.
+
+---
+
 ## 💼 Business Value
 
 This project demonstrates how structured testing activities support enterprise application quality by validating requirements, documenting defects, and ensuring reliable user authentication workflows prior to production deployment.
