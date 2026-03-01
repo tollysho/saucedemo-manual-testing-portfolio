@@ -3,6 +3,21 @@
 
 ---
 
+## 📌 Project Snapshot
+
+| Category | Details |
+|----------|---------|
+| Project Type | Application Validation & Manual Functional Testing |
+| Role Simulated | Technical Business Systems Analyst / QA Analyst |
+| SDLC Phase | Testing & Validation |
+| Application | SauceDemo Web Application |
+| Testing Type | Functional & Negative Testing |
+| Tools Used | TestRail, Excel, Postman (conceptual), Browser DevTools |
+| Documentation | Test Plan, Test Cases, Defect Reports, Execution Evidence |
+| Objective | Validate authentication workflows against expected requirements |
+
+---
+
 ![SDLC](https://img.shields.io/badge/SDLC-Participation-blue)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Validated-green)
 ![QA](https://img.shields.io/badge/QA-Workflow-orange)
