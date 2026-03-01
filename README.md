@@ -1,33 +1,61 @@
-
 # SauceDemo Login Manual Testing Project
+**Manual Testing & SDLC Validation Portfolio Project**
+
+---
 
 ## 📋 Project Overview
-This manual testing project evaluates the **login functionality** of the [SauceDemo](https://www.saucedemo.com) web application. The purpose is to validate the login process for various user scenarios, ensuring functionality, usability, and resilience against negative inputs.
 
-The project was executed using a combination of:
+This project simulates real-world **Software Development Life Cycle (SDLC)** testing activities by performing manual functional validation of the **login functionality** within the [SauceDemo](https://www.saucedemo.com) web application.
+
+The objective was to evaluate system behavior across positive and negative user scenarios to ensure the application meets expected **business and functional requirements** related to authentication, usability, and input validation.
+
+Acting in the role of a **Manual Testing Analyst**, this project demonstrates how testing supports business analysis by validating requirements, identifying defects, and producing traceable documentation that improves system quality prior to deployment.
+
+### Scope of Validation
+- Functional validation of login workflows
+- Positive and negative test scenario execution
+- Requirement-based test case design
+- Defect identification and documentation
+- Evidence-based execution reporting
+
+### Tools & Artifacts Used
 - 📄 Manual Test Cases (Excel)
-- 🐞 Defect Tracking (Excel + Screenshots)
-- 📸 Execution Evidence (Screenshots with timestamps)
-- ✅ TestRail (for test case tracking, execution, and reporting)
+- 🐞 Defect Tracking (Excel with supporting screenshots)
+- 📸 Execution Evidence (timestamped screenshots)
+- ✅ TestRail (test case management, execution tracking, and reporting)
+
+---
+
+## 🔄 SDLC Participation
+
+| SDLC Phase | Contribution |
+|------------|-------------|
+| Requirements Understanding | Interpreted expected login behavior and acceptance criteria |
+| Test Design | Created structured manual test cases |
+| Test Execution | Performed functional validation |
+| Defect Management | Documented and tracked defects with evidence |
+| Validation | Confirmed expected system outcomes aligned with requirements |
 
 ---
 
 ## 🔍 Scope
+
 This project covers the following login scenarios:
+
 - Valid login for standard user
-- Locked-out user
-- Blank credentials
-- Incorrect credentials
-- Uppercase & special characters
-- SQL injection attempts
+- Locked-out user validation
+- Blank credential handling
+- Incorrect credential validation
+- Uppercase & special character inputs
+- SQL injection attempt handling
 - UI behavior and error message alignment
-- Logout behavior and back button handling
+- Logout behavior and browser navigation handling
 
 A total of **15 test cases** were designed and executed.
 
 ---
 
-## 📂 Folder Structure
+## 📂 Repository Structure
 
 ```
 Manual_Testing_SauceDemo_Login_Registration/
@@ -59,8 +87,6 @@ Manual_Testing_SauceDemo_Login_Registration/
 └── 7. README_SauceDemo_Manual_Testing.md
 ```
 
----
-
 ## ✅ Test Execution Results
 
 | Total Test Cases | Passed | Failed | Defects Logged |
@@ -71,26 +97,39 @@ Manual_Testing_SauceDemo_Login_Registration/
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
-- **TestRail** – For test case tracking and execution
-- **Excel** – For test case and defect management
-- **Word** – For Test Plan and Summary documentation
-- **Screenshot tools** – Windows Snipping Tool, Snip & Sketch
-- **Browser DevTools** – For performance timing and validation
+- **TestRail** – Test management and execution tracking
+- **Microsoft Excel** – Test case and defect documentation
+- **Microsoft Word** – Test planning and summary reporting
+- **Browser DevTools** – Validation and inspection
+- **Screenshot Tools** – Evidence capture and reporting
 
 ---
 
-## 📈 Project Highlights
+## 📈 Skills Demonstrated
 
-- Authored and executed **15 manual test cases**
-- Logged **7 UI-related defects** with screenshot evidence
-- Simulated real QA workflow using **TestRail**
-- Structured deliverables following **industry best practices**
+- Software Development Life Cycle (SDLC) participation
+- Manual Functional Testing
+- Requirements Validation
+- Test Case Design & Execution
+- Defect Lifecycle Management
+- Documentation & Traceability
+- Business Workflow Analysis
+- Quality Assurance Best Practices
+
+---
+
+## 💼 Business Value
+
+This project demonstrates how structured testing activities support enterprise application quality by validating requirements, documenting defects, and ensuring reliable user authentication workflows prior to production deployment.
 
 ---
 
 ## 🙋‍♀️ Author
+
 **Tola Soyoye**  
-Manual QA Analyst | Business Systems Analyst  
+Technical Business Systems Analyst | Manual QA Analyst  
+
 🔗 [LinkedIn] (https://www.linkedin.com/in/tola-s-484a0b22b/)
+🔗 GitHub Portfolio: https://github.com/tollysho
